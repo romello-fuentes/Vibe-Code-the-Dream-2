@@ -22,6 +22,7 @@ Adjustable settings:
    Hunger rate
 
 Libraries / Tools
+
  Python
  Pygame (graphics and animation)
  Pygwidgets (UI controls)
