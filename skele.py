@@ -1,4 +1,7 @@
 import pygame
+import pygame_widgets
+from pygame_widgets.button import Button
+from pygame_widgets.slider import Slider, win
 import random
 
 # -----------------
@@ -11,6 +14,7 @@ FPS = 30
 NUM_PREDATORS = 3
 NUM_PREY = 10
 
+Prey_slider = None
 
 # -----------------
 # Animal Base Class
