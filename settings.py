@@ -1,6 +1,6 @@
 # Screen settings
 
-WIDTH = 1000
+WIDTH = 1200
 HEIGHT = 600
 UI_HEIGHT = 120
 FPS = 30
